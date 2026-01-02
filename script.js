@@ -1,1 +1,6 @@
-const a = 78;
+
+let x = "hello"
+
+function sayHello() {
+    return x;
+}
