@@ -10,3 +10,7 @@ let c1 = "commit 1";
 let c2 = "commit2";
 
 let c3 = "commit 3";
+
+function login() {
+    console.log("login");
+}
