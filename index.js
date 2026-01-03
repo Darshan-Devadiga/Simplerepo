@@ -6,5 +6,3 @@ function sayName() {
 }
 
 let c1 = "commit 1";
-
-let c2 = "commit 2";
