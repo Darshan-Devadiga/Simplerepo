@@ -6,5 +6,3 @@ function sayName() {
 }
 
 let x = 55;
-
-let z = 44;
