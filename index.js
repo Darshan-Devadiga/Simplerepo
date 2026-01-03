@@ -18,3 +18,7 @@ function login() {
 function logout() {
     console.log("LogOut");
 }
+
+let name = "login";
+
+let name11 = "login";
