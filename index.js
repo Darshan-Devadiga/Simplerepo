@@ -14,3 +14,7 @@ let c3 = "commit 3";
 function login() {
     console.log("login");
 }
+
+function logout() {
+    console.log("LogOut");
+}
