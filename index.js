@@ -5,4 +5,4 @@ function sayName() {
     console.log("Hi i'm " + name1);
 }
 
-let x = 55;
+let c1 = "commit 1";
